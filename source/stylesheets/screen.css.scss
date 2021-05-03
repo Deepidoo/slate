@@ -613,3 +613,9 @@ html, body {
 .highlight, .highlight .w {
   background-color: $code-bg;
 }
+p.deprecated {
+  color: #fff;
+  width: 100%;
+  background-color: red;
+  margin-bottom: 20px;
+}
